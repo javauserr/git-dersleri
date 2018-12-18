@@ -1,4 +1,4 @@
-# git-dersleri
+# git-dersleri ##(Test repository and readme file)
 
 ![github image](https://github.com/javauserr/git-dersleri/blob/master/images/readme-image.jpg)
 
